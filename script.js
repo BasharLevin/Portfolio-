@@ -17,11 +17,11 @@ const projects = [
     ],
     techStack: ["Unity", "C#", "Unity ML-Agents", "OpenAI API"],
     media: {
-      // your actual video file
-      videoUrl: "media/ea_seed/ea_rl.mp4",
+
+      videoUrl: "media/ea_seed/llm-copy.mp4",
       images: [
         "media/ea_seed/ea_seed.png"
-      ] // you can add thumbnails later if you want
+      ] 
     },
     links: {
       github: "https://github.com/YOUR_GITHUB_USERNAME",
